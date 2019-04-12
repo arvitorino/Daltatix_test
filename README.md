@@ -1,5 +1,11 @@
 # Daltix Test
 
+## Objective
+The objective is to find product matches in a dataset of DIY products using data scraped from webshops by the Daltix team.
+
+## Method
+The approach chosen to solve the problem was a macthing string technique using TF-IDF with ngrams andtTo calculate the similarity between two vectors of TF-IDF values the Cosine Similarity was chosen.
+
 ## Instructions
 
 The notebook jupyter is organized as follows:
